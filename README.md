@@ -4,6 +4,10 @@
   <em>Computer Engineering Student • Optimization Enthusiast • Systems Developer</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsaacKosloski/IsaacKosloski/main/banner.png" alt="Isaac Kosloski Banner" width="100%" />
+</p>
+
 ---
 
 ### 🧠 About Me
