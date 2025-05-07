@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Isaac Kosloski</h1>
 
 <p align="center">
-  <em>Computer Engineering Student • Optimization Enthusiast • Systems Developer</em>
+  <em>Computer Engineering Student • Optimization Enthusiast • High Performance Systems Developer</em>
 </p>
 
 <p align="center">
