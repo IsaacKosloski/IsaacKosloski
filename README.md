@@ -30,12 +30,18 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=IsaacKosloski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Isaac's GitHub Stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacKosloski&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Isaac's Most Used Languages" />
-</div>
-
-<br>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=IsaacKosloski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Isaac's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacKosloski&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Isaac's Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
