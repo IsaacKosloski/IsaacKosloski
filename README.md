@@ -13,21 +13,6 @@
 
 ---
 
-### 🧠 About Me
-
-- 🎓 Undergraduate in Computer Engineering at **UFMS (Brazil)**
-- 📄 [Lattes Curriculum](http://lattes.cnpq.br/0205326212120941)
-- 🚛 Specialized in solving the **Capacitated Vehicle Routing Problem (CVRP)** using:
-  - Metaheuristics (GRASP, ILS)
-  - Parallel computing with OpenMP and CUDA
-- 🧰 Skilled in **C++**, **Python**, **Streamlit**, and **SQLite**
-- 📊 Creator of dashboards to visualize and analyze optimization performance
-- 🌱 Currently exploring: **GCP**, **Rust**, and UI/UX for data applications
-
-<br>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
