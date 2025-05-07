@@ -6,7 +6,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaacKosloski/IsaacKosloski/main/banner.png" alt="Isaac Kosloski Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/IsaacKosloski/IsaacKosloski/main/banner01.png" alt="Isaac Kosloski Banner" width="100%">
 </p>
 
 <br>
