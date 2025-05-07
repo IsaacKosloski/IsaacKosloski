@@ -1,11 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Isaac Kosloski</h1>
-
+<!-- Introduction -->
+<h1 align="center">Hi there 👋, I'm Isaac Kosloski 👨‍💻</h1>
 <p align="center">
-  <em>Computer Engineering Student • Optimization Enthusiast • High Performance Systems Developer</em>
+<em>Computer Engineering Student at UFMS • Optimization Enthusiast • Metaheuristics Researcher • High Performance Systems Developer</em>
 </p>
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaacKosloski/IsaacKosloski/main/banner.png" alt="Isaac Kosloski Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/IsaacKosloski/IsaacKosloski/main/banner.png" alt="Isaac Kosloski Banner" width="100%">
 </p>
 
 ---
@@ -20,7 +21,16 @@
 - 🖥️ Experienced with: C++, Python, Streamlit, SQLite
 - 📊 Building dashboards to visualize and analyze optimization performance
 - 🌱 Currently learning: deployment on GCP, UI/UX for analytics, Rust
+---
 
+### 📈 GitHub Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=IsaacKosloski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Kosloski Isaac's GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacKosloski&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Kosloski Isaac's Most Used Languages" />
+</div>
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -35,16 +45,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=IsaacKosloski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Kosloski Isaac's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacKosloski&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Kosloski Isaac's Most Used Languages" />
-</div>
 
 <hr>
 
